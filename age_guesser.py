@@ -1,6 +1,11 @@
+import random
 
-print("Hello, welcome to Age Guesser! Let's guess your age.")
-name = input("What is your name? ")
+print()
+
+print("~~ Hello, welcome to Age Guesser! Let's guess your age. ~~")
+
+print()
+name = input("-- What is your name? _")
 
 guessed = False
 
