@@ -8,4 +8,6 @@ Date: 9.17.25 - This week in class we are learning about diagrams such as flow a
 
 Date: 9.22.25 - This week we are talking about and pitching our projects. We will be creating a PowerPoint presentation giving our class an idea of what we will be implementing. We should be becoming more familiar with our YouFace template layout and how we will be changing it to implement our own design.
 
+Date: 9.24.25 - Today we had to fix our flow diagrams to represent the different types of flow that our cites will have. I worked on the add or remove a user flow which was fairly simple. I then have to push that to our team repository and upload it as a pdf. We will be referencing these diagrams as we work towards our project goal.
+
 Date: 
