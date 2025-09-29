@@ -10,4 +10,6 @@ Date: 9.22.25 - This week we are talking about and pitching our projects. We wil
 
 Date: 9.24.25 - Today we had to fix our flow diagrams to represent the different types of flow that our cites will have. I worked on the add or remove a user flow which was fairly simple. I then have to push that to our team repository and upload it as a pdf. We will be referencing these diagrams as we work towards our project goal.
 
-Date: 
+Date: 9.29.25 - Today in class we got to view other groups project pitch and see how each are going to implement their work. The mySpy team was also able to present their project pitch and explain to the audience how we will succeed in building and implementing it.
+
+Date:  
