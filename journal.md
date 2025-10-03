@@ -12,4 +12,6 @@ Date: 9.24.25 - Today we had to fix our flow diagrams to represent the different
 
 Date: 9.29.25 - Today in class we got to view other groups project pitch and see how each are going to implement their work. The mySpy team was also able to present their project pitch and explain to the audience how we will succeed in building and implementing it.
 
-Date:  
+Date: 10.3.25 - We went through all the project pitch presentations. I was actually surprised as many teams made their slides really customized to their project theme which was really cool to see. Today we are taking a look at Kanban boards and creating them for our own projects where team members can claim issues and check them in as we are working on them.
+
+Date:   
