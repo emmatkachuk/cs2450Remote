@@ -14,4 +14,6 @@ Date: 9.29.25 - Today in class we got to view other groups project pitch and see
 
 Date: 10.3.25 - We went through all the project pitch presentations. I was actually surprised as many teams made their slides really customized to their project theme which was really cool to see. Today we are taking a look at Kanban boards and creating them for our own projects where team members can claim issues and check them in as we are working on them.
 
+Date: 10.6.25 - This week we are talking about how this class will help us in the future. The processes and everything we are learning with the tech and collaboration with our team. All of this knowledge will help us better our position in the tech industry. We will be doing a pair programming and scrum master assignments this week.
+
 Date:   
