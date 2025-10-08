@@ -16,4 +16,4 @@ Date: 10.3.25 - We went through all the project pitch presentations. I was actua
 
 Date: 10.6.25 - This week we are talking about how this class will help us in the future. The processes and everything we are learning with the tech and collaboration with our team. All of this knowledge will help us better our position in the tech industry. We will be doing a pair programming and scrum master assignments this week.
 
-Date:   
+Date: 10.8.25 - Today we talked about pair programming and how we can colaborate on one program with two people to work together and solve the issue together rather than individually completing it and having someone check it.   
