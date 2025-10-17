@@ -20,4 +20,6 @@ Date: 10.8.25 - Today we talked about pair programming and how we can colaborate
 
 Date: 10.13.25 - This week we are talking about ethics and how it plays into engineering and decisions. How far would you go if you know it can compromise others' lives? We reviewed the trolley problem. We also talked about how these ethics can play into the real world especially with all the new autonomous technology. 
 
-Date:  
+Date: 10.17.25 - The past two classes we have been talking about ethics with AI. For example the experiment done with AI where it was given the option to save a human or avoid being shut down. Even after specific instrutions to protect human life, many different AI's tested still chose to murder the human. This leads to some people questioning how faulty the experiment was or how this will change the future development of AI in our world.
+
+Date:  10.
