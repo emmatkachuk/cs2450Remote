@@ -24,4 +24,6 @@ Date: 10.17.25 - The past two classes we have been talking about ethics with AI.
 
 Date: 10.20.25 - As we are now in week 10, we are in the validation stage. Despite this, we are still going back to the design and implementation stages as we continue to work on our projects. We have a unit testing assignment this week and next week we are talking about the deployment stage.
 
+Date: 10.27.25 - This week we are talking about refactoring. In our Youface, by this week we should be able to manage users, make posts, identified extra libraries or dependencies, have POC code, have some understanding of the CSS. Some of the refactoring benefits are maintainability, re-usability, performance, and cost reduction. 
+
 Date: 
