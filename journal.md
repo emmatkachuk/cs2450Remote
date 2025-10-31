@@ -26,4 +26,6 @@ Date: 10.20.25 - As we are now in week 10, we are in the validation stage. Despi
 
 Date: 10.27.25 - This week we are talking about refactoring. In our Youface, by this week we should be able to manage users, make posts, identified extra libraries or dependencies, have POC code, have some understanding of the CSS. Some of the refactoring benefits are maintainability, re-usability, performance, and cost reduction. 
 
-Date: 
+Date: 10.31.25 - Today we got to listen and ask questions of our guest speaker. He is a software engineer and told us about his experience with work. Our class got to ask a lot of questions and Kyle was able to explain each of them in detail to ensure we understood. We then had some lab time where I got to show my team some of the user interface updates I have been working on.
+
+Date:
