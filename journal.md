@@ -28,4 +28,6 @@ Date: 10.27.25 - This week we are talking about refactoring. In our Youface, by 
 
 Date: 10.31.25 - Today we got to listen and ask questions of our guest speaker. He is a software engineer and told us about his experience with work. Our class got to ask a lot of questions and Kyle was able to explain each of them in detail to ensure we understood. We then had some lab time where I got to show my team some of the user interface updates I have been working on.
 
-Date:
+Date: 11.3.25 - We are now in the deployment stage this week. This is where we learn how to push our code to our team so that we can all work on it together and ensure that everything works well and smoothly together with no bugs. We have a development pipeline assignment this week as well as some time to work with our team on our mySpy project.
+
+Date: 
