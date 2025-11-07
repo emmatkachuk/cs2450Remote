@@ -30,4 +30,6 @@ Date: 10.31.25 - Today we got to listen and ask questions of our guest speaker. 
 
 Date: 11.3.25 - We are now in the deployment stage this week. This is where we learn how to push our code to our team so that we can all work on it together and ensure that everything works well and smoothly together with no bugs. We have a development pipeline assignment this week as well as some time to work with our team on our mySpy project.
 
-Date: 
+Date: 11.7.25 - Today we talked more about tests and how to use our tools to maximize how we are running our tests. It is called Cl/CD Pipeline testing. When running the coverage report, you can see the name, statements, miss and cover of your code. When reaching the 100 percent coverage area, it becomes really challenging to get to 100. We also got time to work on our Youface where our team seems to be running into some hiccups with progress, but are still actively working on it.
+
+Date:  
