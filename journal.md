@@ -32,4 +32,6 @@ Date: 11.3.25 - We are now in the deployment stage this week. This is where we l
 
 Date: 11.7.25 - Today we talked more about tests and how to use our tools to maximize how we are running our tests. It is called Cl/CD Pipeline testing. When running the coverage report, you can see the name, statements, miss and cover of your code. When reaching the 100 percent coverage area, it becomes really challenging to get to 100. We also got time to work on our Youface where our team seems to be running into some hiccups with progress, but are still actively working on it.
 
-Date:  
+Date: 11.10.25 - We are now talking about scalability. From a site you have a web server, application or business logic, and data to 'scale' up to handle new customers. We also talked about Docker as a containerization tool that allows you to make images of our applications and run them anywhere. It is very useful for deployment and scalability because our image can be copied around. We were also given some time to work in our teams on the containerization assignment. 
+
+Date: 
