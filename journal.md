@@ -34,4 +34,6 @@ Date: 11.7.25 - Today we talked more about tests and how to use our tools to max
 
 Date: 11.10.25 - We are now talking about scalability. From a site you have a web server, application or business logic, and data to 'scale' up to handle new customers. We also talked about Docker as a containerization tool that allows you to make images of our applications and run them anywhere. It is very useful for deployment and scalability because our image can be copied around. We were also given some time to work in our teams on the containerization assignment. 
 
-Date: 
+Date: 11.12.25 - Today we talked about deploying our YouFace app using Docker and AWS App Runner. We started by creating accounts with AWS and exploring the platform. We made sure our projects Dockerfiles were correct then we built the Docker Image for AWS. We then tested it locally to see if it worked. We also talked about Elastic Container Registery and went over creating a repository. We then pushed it to ECR, created the App Runner service, and looked at accessing it publicly using the URL. 
+
+Date: 11. 
