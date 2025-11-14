@@ -36,4 +36,6 @@ Date: 11.10.25 - We are now talking about scalability. From a site you have a we
 
 Date: 11.12.25 - Today we talked about deploying our YouFace app using Docker and AWS App Runner. We started by creating accounts with AWS and exploring the platform. We made sure our projects Dockerfiles were correct then we built the Docker Image for AWS. We then tested it locally to see if it worked. We also talked about Elastic Container Registery and went over creating a repository. We then pushed it to ECR, created the App Runner service, and looked at accessing it publicly using the URL. 
 
+Date: 11.14.25 - Today we talked about Ada Lovelace and her contribution to current technology. She was a mathmetician in 1843 and studied a ton with languages and math. She wrote the first algorithm. She wrote it using registers and proved all with math using pen and paper. We then had time to work with our teams in our project and we got to discuss our progress and where we are going before the end of the semester.
+
 Date: 11. 
