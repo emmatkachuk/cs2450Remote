@@ -38,4 +38,6 @@ Date: 11.12.25 - Today we talked about deploying our YouFace app using Docker an
 
 Date: 11.14.25 - Today we talked about Ada Lovelace and her contribution to current technology. She was a mathmetician in 1843 and studied a ton with languages and math. She wrote the first algorithm. She wrote it using registers and proved all with math using pen and paper. We then had time to work with our teams in our project and we got to discuss our progress and where we are going before the end of the semester.
 
+Date: 11.17.25 - This week is week 14 and we are still in the maintenance phase as we will still be experiencing problems that we need to fix. We also talked about security, specifically the cost, attack vectors, prevention, and case study. The global usage cost of a data breach is around 4.44M USD. It revealed that they lacked the proper AI access controls.
+
 Date: 11. 
