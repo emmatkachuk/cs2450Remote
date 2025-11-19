@@ -40,4 +40,6 @@ Date: 11.14.25 - Today we talked about Ada Lovelace and her contribution to curr
 
 Date: 11.17.25 - This week is week 14 and we are still in the maintenance phase as we will still be experiencing problems that we need to fix. We also talked about security, specifically the cost, attack vectors, prevention, and case study. The global usage cost of a data breach is around 4.44M USD. It revealed that they lacked the proper AI access controls.
 
-Date: 11. 
+Date: 11.19.25 - Today we talked about our progress and a bit about our final exam. Our exam is on Wednesday december 10 from 9-10:50 and we will be presenting our projects on december 3rd. We should introduce ourselves again, describe the project, the architecture of the final solution, what we were able to complete, the lessons learned, a demo, and a conclusion. We also have a security quiz we need to complete this week. 
+
+Date: 
